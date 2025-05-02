@@ -1,0 +1,30 @@
+A. Firmware y claves de sistema (keys)
+
+Nota importante: Yuzu no incluye firmware ni claves por razones legales.
+
+Necesitas extraer los archivos prod.keys y title.keys desde tu propia Nintendo Switch con custom firmware.
+
+Una vez tengas los archivos, colócalos en:
+
+C:\Users\<tu-nombre>\AppData\Roaming\yuzu\keys
+
+
+B. Instalar el firmware
+
+En Yuzu, ve a: File > Install Files to NAND.
+
+Una vez tengas los archivos, colócalos en:
+
+C:\Users\<tu-nombre>\AppData\Roaming\yuzu\nand\Content\Register 
+
+
+=======================================
+	Enlaces Keys - firmware
+=======================================
+
+Keys>> https://prodkeys.net/yuzu-prod-keys-n3/
+
+Firmware>> https://prodkeys.net/yuzu-prod-keys-n3/
+
+
+
